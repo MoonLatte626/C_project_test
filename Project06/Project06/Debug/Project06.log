@@ -1,0 +1,24 @@
+﻿  test.c
+D:\Project\C\Project06\Project06\test.c(8,13): error C2079: “s”使用未定义的 struct“stu”
+D:\Project\C\Project06\Project06\test.c(8,38): error C2078: 初始值设定项太多
+D:\Project\C\Project06\Project06\test.c(10,28): error C2224: “.name”的左侧必须具有结构/联合类型
+D:\Project\C\Project06\Project06\test.c(10,36): error C2224: “.score”的左侧必须具有结构/联合类型
+D:\Project\C\Project06\Project06\test.c(10,45): error C2224: “.age”的左侧必须具有结构/联合类型
+D:\Project\C\Project06\Project06\test.c(10,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Project\C\Project06\Project06\test.c(10,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\Project\C\Project06\Project06\test.c(10,9): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\Project\C\Project06\Project06\test.c(11,32): error C2037: “name”的左侧部分指定未定义的结构/联合“stu”
+D:\Project\C\Project06\Project06\test.c(11,44): error C2037: “score”的左侧部分指定未定义的结构/联合“stu”
+D:\Project\C\Project06\Project06\test.c(11,57): error C2037: “age”的左侧部分指定未定义的结构/联合“stu”
+D:\Project\C\Project06\Project06\test.c(11,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Project\C\Project06\Project06\test.c(11,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\Project\C\Project06\Project06\test.c(11,9): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\Project\C\Project06\Project06\test.c(12,30): error C2037: “name”的左侧部分指定未定义的结构/联合“stu”
+D:\Project\C\Project06\Project06\test.c(12,40): error C2037: “score”的左侧部分指定未定义的结构/联合“stu”
+D:\Project\C\Project06\Project06\test.c(12,51): error C2037: “age”的左侧部分指定未定义的结构/联合“stu”
+D:\Project\C\Project06\Project06\test.c(12,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Project\C\Project06\Project06\test.c(12,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\Project\C\Project06\Project06\test.c(12,9): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\Project\C\Project06\Project06\test.c(8,1): warning C4047: “初始化”:“int”与“char [5]”的间接级别不同
+D:\Project\C\Project06\Project06\test.c(8,29): error C2078: 初始值设定项太多
+D:\Project\C\Project06\Project06\test.c(9,1): warning C4133: “初始化”: 从“int *”到“stu *”的类型不兼容
