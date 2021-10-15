@@ -1,2 +1,5 @@
 ﻿  test.c
+D:\Project\C\Project30\Project30\test.c(169,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\Project\C\Project30\Project30\test.c(100): warning C4715: “GetTopR”: 不是所有的控件路径都返回值
+D:\Project\C\Project30\Project30\test.c(109): warning C4715: “GetTopD”: 不是所有的控件路径都返回值
   Project30.vcxproj -> D:\Project\C\Project30\Debug\Project30.exe
